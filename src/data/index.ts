@@ -28,6 +28,11 @@ export const viewCommands = [
         id: "viewCommand6",
         text: "!hug",
         desc: "Give someone here a Hug and Me and my Lover are giving one too"
+    },
+    {
+        id: "viewCommand7",
+        text: "!nya",
+        desc: "Make me Nya"
     }
 ]
 
